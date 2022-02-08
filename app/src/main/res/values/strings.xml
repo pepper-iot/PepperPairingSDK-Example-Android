@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PairingSDK</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="shiftCipher">Shift Cipher</string>
+
+    <string name="connect">Connect</string>
+
+    <string name="wifiSSID">SSID</string>
+    <string name="wifiPassword">Password</string>
+    <string name="accountId">Accound Id</string>
+    <string name="serverUrl">Server URL</string>
+
+    <string name="executeSoftap">Execute SoftAP</string>
+
+    <string name="autoJoinHotspot">Auto-Join</string>
+    <string name="disconnectHotspot">Disconnect</string>
+</resources>
